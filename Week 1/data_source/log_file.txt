@@ -1,0 +1,14 @@
+2025-Mar-10-02:13:45,ETL Job Started
+2025-Mar-10-02:13:45,Extract phase Started
+2025-Mar-10-02:15:16,ETL Job Started
+2025-Mar-10-02:15:16,Extract phase Started
+2025-Mar-10-02:15:16,Extract phase Ended
+2025-Mar-10-02:15:16,Transform phase Started
+2025-Mar-10-02:17:47,ETL Job Started
+2025-Mar-10-02:17:47,Extract phase Started
+2025-Mar-10-02:17:48,Extract phase Ended
+2025-Mar-10-02:17:48,Transform phase Started
+2025-Mar-10-02:17:48,Transform phase Ended
+2025-Mar-10-02:17:48,Load phase Started
+2025-Mar-10-02:17:48,Load phase Ended
+2025-Mar-10-02:17:48,ETL Job Ended
